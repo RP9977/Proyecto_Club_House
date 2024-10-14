@@ -1,0 +1,10 @@
+main{
+    .tiendaequipos{
+        padding: 30px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-content: center;
+        gap: 50px;
+    }
+}

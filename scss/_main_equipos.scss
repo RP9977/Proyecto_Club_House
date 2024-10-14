@@ -1,0 +1,10 @@
+main{
+        .galeriaequipos{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-content: center;
+        gap: 50px;
+        padding: 30px;
+    }
+}

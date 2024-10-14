@@ -1,0 +1,26 @@
+footer{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    div{
+        .logo2{
+            width: 100px;
+            padding-left: 20px;
+        }
+    }
+    .pie{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+    }
+    .redes_foot{
+        display: flex;
+        align-self: last baseline;
+        margin: 20px;
+        .red{
+            width: 50px;
+            padding: 5px;
+        }
+    }
+}
